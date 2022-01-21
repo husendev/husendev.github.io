@@ -2,20 +2,20 @@
    "Ads": [
     {
       "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "APPLOVIN-D",
+      "select_backup_ads"         : "APPLOVIN-M",
 
       "more_app"                  : "1",
       "main_ads_banner"           : "DefaultBanner",
-      "main_ads_intertitial"      : "ca-app-pub-3940256099942544/1033173712",
-      "admob_native"              : "ca-app-pub-3940256099942544/2247696110",
+      "main_ads_intertitial"      : "ca-app-pub-4242569781122883/7173825582",
+      "admob_native"              : "ca-app-pub-4242569781122883/2113070592",
 
       "google_ads_native"         : "YOUR_PLACEMENT_ID",
 
       "fan_ads_banner"            : "KODE_IKLAN",
       "fan_ads_intertitial"       : "KODE_IKLAN",
 
-      "backup_ads_banner"         : "qwerty1234",
-      "backup_ads_intertitial"    : "qwerty1234",
+      "backup_ads_banner"         : "",
+      "backup_ads_intertitial"    : "",
 
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
