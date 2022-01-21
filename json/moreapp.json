@@ -4,13 +4,13 @@
     {
       "id":1,
       "title":"More Apps",
-      "image":"https://omarappdeveloper.github.io/img/allaps.jpg",
+      "image":"https://husendev.github.io/img/allaps.jpg",
       "link":"https://play.google.com/store/apps/developer?id=HusenDev"
     },
     {
       "id":2,
       "title":"BTS Jimin - Wallpaper",
-      "image":"https://omarappdeveloper.github.io/img/Jimin.webp",
+      "image":"https://husendev.github.io/img/Jimin.webp",
       "link":"https://play.google.com/store/apps/details?id=com.omar.jhopebtsfakecall"
     },
   ]
