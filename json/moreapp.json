@@ -9,10 +9,46 @@
     },
     {
       "id":2,
-      "title":"BTS Jimin - Wallpaper",
-      "image":"https://husendev.github.io/img/Jimin.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.omar.jhopebtsfakecall"
+      "title":"BTS Jimin",
+      "image":"https://husendev.github.io/img/jimin.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.btsjiminwallpaper"
     },
+    {
+      "id":3,
+      "title":"Lisa Blackpink",
+      "image":"https://husendev.github.io/img/lisa.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.lisablackpinkwallpaper"
+    },
+    {
+      "id":4,
+      "title":"EVOS Notnot",
+      "image":"https://husendev.github.io/img/evosnotnot.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.evosnotnotwallpaper"
+    },
+    {
+      "id":5,
+      "title":"ONIC Vior",
+      "image":"https://husendev.github.io/img/onicvior.webp",
+      "link":"https://play.google.com/store/apps/developer?id=HusenDev"
+    },
+    {
+      "id":6,
+      "title":"ONIC Kayes",
+      "image":"https://husendev.github.io/img/kayes.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.kayeswallpaper"
+    },
+    {
+      "id":7,
+      "title":"BTS Taehyung",
+      "image":"https://husendev.github.io/img/taehyung.webp",
+      "link":"https://play.google.com/store/apps/developer?id=HusenDev"
+    },
+    {
+      "id":8,
+      "title":"NCT Doyoung",
+      "image":"https://husendev.github.io/img/kimdoyoung.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.nctkimdoyoungwallpaper"
+    }
   ]
 
 }
