@@ -14,8 +14,8 @@
       "fan_ads_banner"            : "KODE_IKLAN",
       "fan_ads_intertitial"       : "KODE_IKLAN",
 
-      "backup_ads_banner"         : "",
-      "backup_ads_intertitial"    : "",
+      "backup_ads_banner"         : "7441da138c8a2fd0",
+      "backup_ads_intertitial"    : "107533de883cb3b9",
 
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
