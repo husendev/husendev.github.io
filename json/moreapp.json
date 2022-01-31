@@ -48,7 +48,27 @@
       "title":"NCT Doyoung",
       "image":"https://husendev.github.io/img/kimdoyoung.webp",
       "link":"https://play.google.com/store/apps/details?id=com.husendev.nctkimdoyoungwallpaper"
+    },
+    {
+      "id":9,
+      "title":"Sarah Viloid",
+      "image":"https://husendev.github.io/img/sarahviloid.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.sarahviloidwallpaper"
+    },
+    {
+      "id":10,
+      "title":"Pokimane",
+      "image":"https://husendev.github.io/img/pokimane.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.pokimanewallpaper"
+    },
+    {
+      "id":11,
+      "title":"BTS Jin",
+      "image":"https://husendev.github.io/img/jiin.webp",
+      "link":"https://play.google.com/store/apps/developer?id=HusenDev"
     }
+
+
   ]
 
 }
