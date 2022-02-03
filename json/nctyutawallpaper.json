@@ -4,7 +4,7 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-M",
 
-      "more_app"                  : "0",
+      "more_app"                  : "1",
       "main_ads_banner"           : "DefaultBanner",
       "main_ads_intertitial"      : "ca-app-pub-4242569781122883/8244919002",
       "admob_native"              : "ca-app-pub-4242569781122883/3563437963",
@@ -14,8 +14,8 @@
       "fan_ads_banner"            : "KODE_IKLAN",
       "fan_ads_intertitial"       : "KODE_IKLAN",
 
-      "backup_ads_banner"         : "",
-      "backup_ads_intertitial"    : "",
+      "backup_ads_banner"         : "b309c92ee0aa1ecd",
+      "backup_ads_intertitial"    : "db7d73407097904e",
 
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
