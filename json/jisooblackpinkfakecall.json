@@ -9,8 +9,8 @@
       "main_ads_intertitial"      : "ca-app-pub-4242569781122883/3400557916",
       "native_for_admob"          : "YOUR_PLACEMENT_ID",
 
-      "backup_ads_banner"         : "",
-      "backup_ads_intertitial"    : "",
+      "backup_ads_banner"         : "3dde4592163400e5",
+      "backup_ads_intertitial"    : "07f05a92efff9e7c",
       
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
