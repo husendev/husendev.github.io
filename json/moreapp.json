@@ -10,64 +10,112 @@
     {
       "id":2,
       "title":"BTS Jimin",
-      "image":"https://husendev.github.io/img/jimin.webp",
+      "image":"https://husendev.github.io/img/jiminwallpaper.webp",
       "link":"https://play.google.com/store/apps/details?id=com.husendev.btsjiminwallpaper"
     },
     {
       "id":3,
       "title":"Lisa Blackpink",
-      "image":"https://husendev.github.io/img/lisa.webp",
+      "image":"https://husendev.github.io/img/lisawallpaper.webp",
       "link":"https://play.google.com/store/apps/details?id=com.husendev.lisablackpinkwallpaper"
     },
     {
       "id":4,
       "title":"EVOS Notnot",
-      "image":"https://husendev.github.io/img/evosnotnot.webp",
+      "image":"https://husendev.github.io/img/evosnotnotwallpaper.webp",
       "link":"https://play.google.com/store/apps/details?id=com.husendev.evosnotnotwallpaper"
     },
     {
       "id":5,
       "title":"ONIC Vior",
-      "image":"https://husendev.github.io/img/onicvior.webp",
+      "image":"https://husendev.github.io/img/onicviorwallpaper.webp",
       "link":"https://play.google.com/store/apps/details?id=com.husendev.onicviorwallpaper"
     },
     {
       "id":6,
       "title":"ONIC Kayes",
-      "image":"https://husendev.github.io/img/kayes.webp",
+      "image":"https://husendev.github.io/img/kayeswallpaper.webp",
       "link":"https://play.google.com/store/apps/details?id=com.husendev.kayeswallpaper"
     },
     {
       "id":7,
       "title":"BTS Taehyung",
-      "image":"https://husendev.github.io/img/taehyung.webp",
+      "image":"https://husendev.github.io/img/taehyungwallpaper.webp",
       "link":"https://play.google.com/store/apps/details?id=com.husendev.btskimtaehyungwallpaper"
     },
     {
       "id":8,
       "title":"NCT Doyoung",
-      "image":"https://husendev.github.io/img/kimdoyoung.webp",
+      "image":"https://husendev.github.io/img/kimdoyoungwallpaper.webp",
       "link":"https://play.google.com/store/apps/details?id=com.husendev.nctkimdoyoungwallpaper"
     },
     {
       "id":9,
       "title":"Sarah Viloid",
-      "image":"https://husendev.github.io/img/sarahviloid.webp",
+      "image":"https://husendev.github.io/img/sarahviloidwallpaper.webp",
       "link":"https://play.google.com/store/apps/details?id=com.husendev.sarahviloidwallpaper"
     },
     {
       "id":10,
       "title":"Pokimane",
-      "image":"https://husendev.github.io/img/pokimane.webp",
+      "image":"https://husendev.github.io/img/pokimanewallpaper.webp",
       "link":"https://play.google.com/store/apps/details?id=com.husendev.pokimanewallpaper"
     },
     {
       "id":11,
       "title":"BTS Jin",
-      "image":"https://husendev.github.io/img/jiin.webp",
-      "link":"https://play.google.com/store/apps/developer?id=HusenDev"
+      "image":"https://husendev.github.io/img/jiinwallpaper.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.btskimseokjinwallpaper"
+    },
+    {
+      "id":12,
+      "title":"Ronaldo Fake call",
+      "image":"https://husendev.github.io/img/ronaldofakecall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.cristianoronaldoprankfakecall"
+    },
+    {
+      "id":13,
+      "title":"Jimin Fake call",
+      "image":"https://husendev.github.io/img/jiminfakecall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.btsjiminfakecall"
+    },
+    {
+      "id":14,
+      "title":"NotNot Fake call",
+      "image":"https://husendev.github.io/img/evosnotnotwallpaper.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.evosnotnotfakecall"
+    },
+    {
+      "id":15,
+      "title":"Jiso Fake call",
+      "image":"https://husendev.github.io/img/jisoofakecall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.jisooblackpinkfakecall"
+    },
+    {
+      "id":16,
+      "title":"Yuta Fake call",
+      "image":"https://husendev.github.io/img/nctyutaafakecall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.nctyutafakecall"
+    },
+    {
+      "id":17,
+      "title":"Lisa Fake call",
+      "image":"https://husendev.github.io/img/lisafakecall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.lisablackpinkfakecall"
+    },
+    {
+      "id":18,
+      "title":"Jungkook Fake call",
+      "image":"https://husendev.github.io/img/jungkookfakecall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.btsjungkookfakecall"
+    },
+    {
+      "id":19,
+      "title":"Jennie Fake call",
+      "image":"https://husendev.github.io/img/jennieblackpinkfakecall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.jennieblackpinkfakecall"
     }
-
+    
 
   ]
 
