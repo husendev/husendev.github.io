@@ -114,8 +114,25 @@
       "title":"Jennie Fake call",
       "image":"https://husendev.github.io/img/jennieblackpinkfakecall.webp",
       "link":"https://play.google.com/store/apps/details?id=com.husendev.jennieblackpinkfakecall"
+    },
+    {
+      "id":20,
+      "title":"NCT Johnny ",
+      "image":"https://husendev.github.io/img/nctjohnnywallpaper.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.nctjohnnywallpaper"
+    },
+    {
+      "id":21,
+      "title":"NCT WinWin ",
+      "image":"https://husendev.github.io/img/winwinwallpaper.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.nctwinwinwallpaper"
+    },
+    {
+      "id":21,
+      "title":"NCT Yuta ",
+      "image":"https://husendev.github.io/img/nctyutaafakecall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.husendev.nctwinwinwallpaper"
     }
-    
 
   ]
 
