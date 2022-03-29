@@ -9,8 +9,8 @@
       "main_ads_intertitial"      : "ca-app-pub-4242569781122883/2954625348",
       "native_for_admob"          : "YOUR_PLACEMENT_ID",
 
-      "backup_ads_banner"         : "KODE_IKLAN",
-      "backup_ads_intertitial"    : "KODE_IKLAN",
+      "backup_ads_banner"         : "6fbce3da17f68ee6",
+      "backup_ads_intertitial"    : "dd48bf3435a2c0d0",
       
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
