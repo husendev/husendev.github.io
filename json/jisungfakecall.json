@@ -5,8 +5,8 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-M",
 
-      "main_ads_banner"           : "ca-app-pub-4242569781122883/3075142320",
-      "main_ads_intertitial"      : "ca-app-pub-4242569781122883/8135897312",
+      "main_ads_banner"           : "ca-app-pub-4242569781122883/2443467374",
+      "main_ads_intertitial"      : "ca-app-pub-4242569781122883/3564977354",
       "native_for_admob"          : "YOUR_PLACEMENT_ID",
 
       "backup_ads_banner"         : "KODE_IKLAN",
