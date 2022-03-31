@@ -1,35 +1,30 @@
 {
-   "Ads": [
+  "Ads": [
     {
+      "more_app"                  : "1",
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-M",
 
-      "more_app"                  : "1",
-      "main_ads_banner"           : "DefaultBanner",
-      "main_ads_intertitial"      : "ca-app-pub-4242569781122883/6327758170",
-      "admob_native"              : "ca-app-pub-4242569781122883/2738005139",
+      "main_ads_banner"           : "KODE_IKLAN",
+      "main_ads_intertitial"      : "KODE_IKLAN",
+      "native_for_admob"          : "YOUR_PLACEMENT_ID",
 
-      "google_ads_native"         : "YOUR_PLACEMENT_ID",
-
-      "fan_ads_banner"            : "KODE_IKLAN",
-      "fan_ads_intertitial"       : "KODE_IKLAN",
-
-      "backup_ads_banner"         : "2d9cebd1f660c488",
-      "backup_ads_intertitial"    : "7484314a45ba4163",
-
+      "backup_ads_banner"         : "KODE_IKLAN",
+      "backup_ads_intertitial"    : "KODE_IKLAN",
+      
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
+
+      "interval_intertitial"      : 5,
 
       "high_paying_keyword_1": "life insurance",
       "high_paying_keyword_2": "health insurance",
       "high_paying_keyword_3": "education insurance",
       "high_paying_keyword_4": "architect",
-      "high_paying_keyword_5": "property",
+      "high_paying_keyword_5": "car insurance",
 
-      "interval_intertitial": 3,
-      
       "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/developer?id=KEMBAR+DEVELOPER"
-    }
+      "link_redirect": "https://"
+      }
   ]
 }
