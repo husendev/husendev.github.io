@@ -2,12 +2,12 @@
   "Ads": [
     {
       "more_app"                  : "1",
-      "select_main_ads"           : "IRON",
+      "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-M",
 
       "main_ads_banner"           : "YOUR_PLACEMENT_ID",
-      "main_ads_intertitial"      : "ca-app-pub-4242569781122883/8135897312",
-      "main_ads_native"           : "ca-app-pub-4242569781122883/6124559029",
+      "main_ads_intertitial"      : "ca-app-pub-4242569781122883/8135897312x",
+      "main_ads_native"           : "ca-app-pub-4242569781122883/6124559029x",
 
       "open_ads"                  : "YOUR_PLACEMENT_ID",
 
