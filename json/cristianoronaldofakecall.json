@@ -2,7 +2,7 @@
   "Ads": [
     {
       "more_app"                  : "1",
-      "select_main_ads"           : "ADMOB",
+      "select_main_ads"           : "IRON",
       "select_backup_ads"         : "APPLOVIN-M",
 
       "main_ads_banner"           : "ca-app-pub-4242569781122883/6203027256",
