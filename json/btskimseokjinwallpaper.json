@@ -1,35 +1,1 @@
-{
-   "Ads": [
-    {
-      "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "APPLOVIN-M",
-
-      "more_app"                  : "1",
-      "main_ads_banner"           : "DefaultBanner",
-      "main_ads_intertitial"      : "ca-app-pub-4242569781122883/5643377216x",
-      "admob_native"              : "ca-app-pub-4242569781122883/8077968865x",
-
-      "google_ads_native"         : "YOUR_PLACEMENT_ID",
-
-      "fan_ads_banner"            : "KODE_IKLAN",
-      "fan_ads_intertitial"       : "KODE_IKLAN",
-
-      "backup_ads_banner"         : "7556d8a4b3f4f725",
-      "backup_ads_intertitial"    : "d68b41a72bb2e7c0",
-
-      "initialize_sdk"            : "",
-      "initialize_sdk_backup_ads" : "",
-
-      "high_paying_keyword_1": "life insurance",
-      "high_paying_keyword_2": "health insurance",
-      "high_paying_keyword_3": "education insurance",
-      "high_paying_keyword_4": "architect",
-      "high_paying_keyword_5": "property",
-
-      "interval_intertitial": 3,
-      
-      "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/developer?id=KEMBAR+DEVELOPER"
-    }
-  ]
-}
+{   "Ads": [    {      "select_main_ads"           : "ADMOB",      "select_backup_ads"         : "APPLOVIN-M",      "more_app"                  : "1",      "main_ads_banner"           : "DefaultBanner",      "main_ads_intertitial"      : "ca-app-pub-4242569781122883/5643377216",      "admob_native"              : "ca-app-pub-4242569781122883/8077968865x",      "google_ads_native"         : "YOUR_PLACEMENT_ID",      "fan_ads_banner"            : "KODE_IKLAN",      "fan_ads_intertitial"       : "KODE_IKLAN",      "backup_ads_banner"         : "7556d8a4b3f4f725",      "backup_ads_intertitial"    : "d68b41a72bb2e7c0",      "initialize_sdk"            : "",      "initialize_sdk_backup_ads" : "",      "high_paying_keyword_1": "life insurance",      "high_paying_keyword_2": "health insurance",      "high_paying_keyword_3": "education insurance",      "high_paying_keyword_4": "architect",      "high_paying_keyword_5": "property",      "interval_intertitial": 3,            "status_app": "0",      "link_redirect": "https://play.google.com/store/apps/developer?id=KEMBAR+DEVELOPER"    }  ]}
